@@ -1,7 +1,9 @@
 XBee Explorer Regulated
 =======================
-[![Xbee Explorer Regulated](https://cdn.sparkfun.com//assets/parts/7/1/1/5/11373-01.jpg)
-*XBee Explorer Regulated (WRL-11373)*](https://www.sparkfun.com/products/11373)
+[![Xbee Explorer Regulated](https://cdn.sparkfun.com//assets/parts/7/1/1/5/11373-01.jpg)](https://www.sparkfun.com/products/11373)
+
+
+*[XBee Explorer Regulated (WRL-11373)](https://www.sparkfun.com/products/11373)*
  
  This Explorer regulates 5V serial signals to 3.3V to enable communication with the XBee modules.
  This model works with all XBee modules, including Series 1 and 2, standard and Pro versions. 
